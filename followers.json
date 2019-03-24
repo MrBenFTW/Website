@@ -25,13 +25,13 @@
       "time_zone":null,
       "geo_enabled":false,
       "verified":false,
-      "statuses_count":228,
+      "statuses_count":229,
       "lang":"en",
       "status":{
-        "created_at":"Sun Mar 24 17:25:15 +0000 2019",
-        "id":1109868794174828545,
-        "id_str":"1109868794174828545",
-        "text":"@A_MrBenMitchell \n2,000 https:\/\/t.co\/pU8ry2zpkO",
+        "created_at":"Sun Mar 24 17:36:13 +0000 2019",
+        "id":1109871553318211584,
+        "id_str":"1109871553318211584",
+        "text":"i don’t know if i should buy an iphone 8, i can get a trade in deal.",
         "truncated":false,
         "entities":{
           "hashtags":[
@@ -41,147 +41,28 @@
             
           ],
           "user_mentions":[
-            {
-              "screen_name":"A_MrBenMitchell",
-              "name":"Ben Mitchell",
-              "id":927203037147553795,
-              "id_str":"927203037147553795",
-              "indices":[
-                0,
-                16
-              ]
-            }
+            
           ],
           "urls":[
             
-          ],
-          "media":[
-            {
-              "id":1109868689313030144,
-              "id_str":"1109868689313030144",
-              "indices":[
-                24,
-                47
-              ],
-              "media_url":"http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1109868689313030144\/pu\/img\/4fZgkNO6s2AsUVry.jpg",
-              "media_url_https":"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1109868689313030144\/pu\/img\/4fZgkNO6s2AsUVry.jpg",
-              "url":"https:\/\/t.co\/pU8ry2zpkO",
-              "display_url":"pic.twitter.com\/pU8ry2zpkO",
-              "expanded_url":"https:\/\/twitter.com\/KangaroosBlu\/status\/1109868794174828545\/video\/1",
-              "type":"photo",
-              "sizes":{
-                "thumb":{
-                  "w":150,
-                  "h":150,
-                  "resize":"crop"
-                },
-                "small":{
-                  "w":383,
-                  "h":680,
-                  "resize":"fit"
-                },
-                "large":{
-                  "w":720,
-                  "h":1280,
-                  "resize":"fit"
-                },
-                "medium":{
-                  "w":675,
-                  "h":1200,
-                  "resize":"fit"
-                }
-              }
-            }
-          ]
-        },
-        "extended_entities":{
-          "media":[
-            {
-              "id":1109868689313030144,
-              "id_str":"1109868689313030144",
-              "indices":[
-                24,
-                47
-              ],
-              "media_url":"http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1109868689313030144\/pu\/img\/4fZgkNO6s2AsUVry.jpg",
-              "media_url_https":"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1109868689313030144\/pu\/img\/4fZgkNO6s2AsUVry.jpg",
-              "url":"https:\/\/t.co\/pU8ry2zpkO",
-              "display_url":"pic.twitter.com\/pU8ry2zpkO",
-              "expanded_url":"https:\/\/twitter.com\/KangaroosBlu\/status\/1109868794174828545\/video\/1",
-              "type":"video",
-              "sizes":{
-                "thumb":{
-                  "w":150,
-                  "h":150,
-                  "resize":"crop"
-                },
-                "small":{
-                  "w":383,
-                  "h":680,
-                  "resize":"fit"
-                },
-                "large":{
-                  "w":720,
-                  "h":1280,
-                  "resize":"fit"
-                },
-                "medium":{
-                  "w":675,
-                  "h":1200,
-                  "resize":"fit"
-                }
-              },
-              "video_info":{
-                "aspect_ratio":[
-                  9,
-                  16
-                ],
-                "duration_millis":4533,
-                "variants":[
-                  {
-                    "bitrate":832000,
-                    "content_type":"video\/mp4",
-                    "url":"https:\/\/video.twimg.com\/ext_tw_video\/1109868689313030144\/pu\/vid\/360x640\/Dd-Zj3Hj7tzY5ndj.mp4?tag=8"
-                  },
-                  {
-                    "bitrate":632000,
-                    "content_type":"video\/mp4",
-                    "url":"https:\/\/video.twimg.com\/ext_tw_video\/1109868689313030144\/pu\/vid\/320x568\/4TI6bQ3M6qL6qMm0.mp4?tag=8"
-                  },
-                  {
-                    "bitrate":2176000,
-                    "content_type":"video\/mp4",
-                    "url":"https:\/\/video.twimg.com\/ext_tw_video\/1109868689313030144\/pu\/vid\/720x1280\/aNjP9iq1pXBkioo6.mp4?tag=8"
-                  },
-                  {
-                    "content_type":"application\/x-mpegURL",
-                    "url":"https:\/\/video.twimg.com\/ext_tw_video\/1109868689313030144\/pu\/pl\/r44x9d8QudstxYlp.m3u8?tag=8"
-                  }
-                ]
-              },
-              "additional_media_info":{
-                "monetizable":false
-              }
-            }
           ]
         },
         "source":"<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
         "in_reply_to_status_id":null,
         "in_reply_to_status_id_str":null,
-        "in_reply_to_user_id":927203037147553795,
-        "in_reply_to_user_id_str":"927203037147553795",
-        "in_reply_to_screen_name":"A_MrBenMitchell",
+        "in_reply_to_user_id":null,
+        "in_reply_to_user_id_str":null,
+        "in_reply_to_screen_name":null,
         "geo":null,
         "coordinates":null,
         "place":null,
         "contributors":null,
         "is_quote_status":false,
         "retweet_count":0,
-        "favorite_count":0,
+        "favorite_count":1,
         "favorited":false,
         "retweeted":false,
-        "possibly_sensitive":true,
-        "lang":"und"
+        "lang":"en"
       },
       "contributors_enabled":false,
       "is_translator":false,
@@ -363,7 +244,7 @@
           "contributors":null,
           "is_quote_status":false,
           "retweet_count":1,
-          "favorite_count":5,
+          "favorite_count":6,
           "favorited":false,
           "retweeted":false,
           "possibly_sensitive":false,
@@ -2516,7 +2397,7 @@
           "contributors":null,
           "is_quote_status":false,
           "retweet_count":46,
-          "favorite_count":50,
+          "favorite_count":51,
           "favorited":false,
           "retweeted":false,
           "possibly_sensitive":true,
