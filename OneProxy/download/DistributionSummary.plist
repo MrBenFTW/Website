@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OneVPN.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>087529280D3506ED3A6A9552A4505AE80F342899</string>
+				<key>dateExpires</key>
+				<string>11/02/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>087529280D3506ED3A6A9552A4505AE80F342899</string>
+						<key>dateExpires</key>
+						<string>11/02/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>Q758D2PLHU.host.onenode.onevpn.tunnel</string>
+						<key>com.apple.developer.networking.networkextension</key>
+						<array>
+							<string>app-proxy-provider</string>
+							<string>content-filter-provider</string>
+							<string>dns-proxy</string>
+							<string>packet-tunnel-provider</string>
+						</array>
+						<key>com.apple.developer.team-identifier</key>
+						<string>Q758D2PLHU</string>
+						<key>get-task-allow</key>
+						<true/>
+					</dict>
+					<key>name</key>
+					<string>OneVPNTunnel.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>4a432ecb-6520-4f3c-a46c-ca3b30dc8f2a</string>
+						<key>name</key>
+						<string>iOS Team Provisioning Profile: host.onenode.onevpn.tunnel</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Q758D2PLHU</string>
+						<key>name</key>
+						<string>Ben Mitchell</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Q758D2PLHU.host.onenode.onevpn</string>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array>
+					<string>app-proxy-provider</string>
+					<string>content-filter-provider</string>
+					<string>dns-proxy</string>
+					<string>packet-tunnel-provider</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Q758D2PLHU</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>OneVPN.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e58a5d35-04af-411c-9e5c-9d94bfe76a78</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: host.onenode.onevpn</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Q758D2PLHU</string>
+				<key>name</key>
+				<string>Ben Mitchell</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
