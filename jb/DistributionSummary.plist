@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Undecimus.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>087529280D3506ED3A6A9552A4505AE80F342899</string>
+				<key>dateExpires</key>
+				<string>11/02/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Q758D2PLHU.tech.pyron.jb</string>
+				<key>com.apple.developer.networking.multipath</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Q758D2PLHU</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Undecimus.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4995d6d2-8a15-4097-84b7-5ed405e4dc4c</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: tech.pyron.jb</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Q758D2PLHU</string>
+				<key>name</key>
+				<string>Ben Mitchell</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
